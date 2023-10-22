@@ -10,7 +10,7 @@ https://github.com/Mehrsa-Mohajeri-Developer/Filling_Something_With_Animation_Tr
 
 - 📆 Created: 2023-10-7
 
-- ✔️ Technologies Used: HTML, CSS, SASS
+- ✔️ Technologies Used: HTML, CSS, SASS, Animation-CSS
 
 - 💥 Role: Front-End
 
